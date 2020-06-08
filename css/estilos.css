@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
 .image {
-	transition: width .3s ease;
-	cursor: pointer;
+	transition: width .3s ease; /* Efecto de transition sobre el ancho del elemento que contiene la imagen */
+	cursor: pointer; /* Muestra el puntero como elemento clicable */
 }
