@@ -1,2 +1,2 @@
-# Plantilla HTML
-Plantilla genérica
+# Práctica 14
+Modificar Imagen
